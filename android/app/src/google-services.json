@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137946117477",
+    "project_id": "my-project-30e10",
+    "storage_bucket": "my-project-30e10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137946117477:android:53add49f0c6e6775755d8c",
+        "android_client_info": {
+          "package_name": "com.example.gpsapkproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc62tzscjDFHoRG8JcLgcP6Rj0j5jg_j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
